@@ -1,8 +1,20 @@
 @import "bootstrap.min.css";
 
+html 
+{
+    scroll-behavior: smooth;
+}
+
 .custom-background-page
 {
-    color: #ffffff;
+    color: #ffffff !important;
     background-color: #004262 !important;
 }
+
+.custom-content-page
+{
+    min-height: 500px;
+}
+
+
 
