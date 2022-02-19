@@ -9,7 +9,8 @@
 }
 #btn-back-to-top svg
 {
-    fill: #FFFFFF;
+    /* fill: #FFFFFF; */
+    fill: #fffefe;
     height: 30px;
     width: 30px;
 }
@@ -21,8 +22,16 @@ html
 
 .custom-background-page
 {
-    color: #ffffff !important;
-    background-color: #004262 !important;
+    /* color: #ffffff !important; */
+    color: #fffefe !important;
+    /* background-color: #004262 !important; */
+    background-color: #001f41 !important;
+}
+
+.custom-text-title
+{
+    /* color: #60ddee !important; */
+    color: #04E3FF !important;
 }
 
 .custom-content-page
